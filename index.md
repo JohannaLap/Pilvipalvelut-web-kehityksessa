@@ -4,7 +4,7 @@
 
 -[Viikko2](vko2.md)
 
--[Viikko3](vko3.md)
+-[Viikko3](vko03/index.html)
 
 -[Viikko4](vko4.md)
 
