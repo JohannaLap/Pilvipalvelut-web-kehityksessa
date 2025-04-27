@@ -2,7 +2,7 @@
   "name": "vite-project",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://JohannaLap.github.io/Pilvipalvelut-web-kehityksessa/vko03",
+  "homepage": "https://JohannaLap.github.io/Pilvipalvelut-web-kehityksessa/vko4",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

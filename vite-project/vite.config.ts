@@ -7,6 +7,6 @@ import react from '@vitejs/plugin-react'
 // })
 
 export default defineConfig({
-  base: '/Pilvipalvelut-web-kehityksessa/vko03',
+  base: '/Pilvipalvelut-web-kehityksessa/vko4',
   plugins: [react()],
 })
