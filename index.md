@@ -14,4 +14,4 @@
 
 -[Viikko6](vko6.md)
 
--Harjoitustyö
+-[Harjoitustyö](harjoitustyo/index.html)
