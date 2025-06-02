@@ -15,3 +15,5 @@
 -[Viikko6](vko6.md)
 
 -[Harjoitustyö](harjoitustyo/index.html)
+
+-[Harjoitustyön testaus ja raportointi](harjoitustyo.md)
