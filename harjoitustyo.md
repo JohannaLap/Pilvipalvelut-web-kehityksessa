@@ -30,3 +30,8 @@ Sivuston latautumisajan testasin käyttäen apunani https://pagespeed.web.dev . 
 ![kuva](mobiili.png)
 
 ![kuva](mobiili2.png)
+
+
+## Yhteenveto
+Kokonaisuudessaan olen melko tyytyväinen saavuttamaani lopputulokseen. Loppullinen sivusto ei ole täydellinen, ja siinä on vielä pientä muokattavaa. Mutta koska aika on rajallinen kaikkea ei ehtinyt tehdä. 
+
