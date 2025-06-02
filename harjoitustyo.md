@@ -21,7 +21,7 @@ Responsiivisuus toimii melkohyvin pienien säätöjen jälkeen. Oikealle puolell
 Sivuston latautumisajan testasin käyttäen apunani https://pagespeed.web.dev . Latautumis ajat näyttävät olevan hyvät niin mobiilissa kuin desktopissakin.
 
 ### Desktop
-![kuva](desktop)
+![kuva](desktop.png)
 
 [desktop2]
 
