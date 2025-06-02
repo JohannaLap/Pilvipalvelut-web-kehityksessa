@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -85,4 +94,35 @@ button:hover {
 
 .recipe-card p {
   line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  form {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  input[type="text"] {
+    width: 100%;
+  }
+
+  .recipes {
+    padding: 0 1rem;
+  }
+
+  .recipe-card {
+    padding: 1rem;
+  }
+
+  button {
+    width: 100%;
+  }
 }
