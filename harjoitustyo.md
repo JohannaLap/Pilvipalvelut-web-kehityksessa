@@ -23,10 +23,10 @@ Sivuston latautumisajan testasin käyttäen apunani https://pagespeed.web.dev . 
 ### Desktop
 ![kuva](desktop.png)
 
-[desktop2]
+![kuva](desktop2.png)
 
 ### Mobiili
 
-[mobiili]
+![kuva](mobiili.png)
 
-[mobiili2]
+![kuva](mobiili2.png)
